@@ -64,7 +64,7 @@ public class Calculator{
                     break;
 
                 default:
-                    System.out.println("Invalid input, select a valir option");
+                    System.out.println("Invalid input, select a valid option");
                     break;
             }
         }  
