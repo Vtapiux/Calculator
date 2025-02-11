@@ -39,7 +39,7 @@ public class Calculator{
                     break;
                 
                 case 3: 
-                    System.out.println("MULTIPLICATION x - y");
+                    System.out.println("MULTIPLICATION x * y");
                     int mul = x * y;
                     System.out.println(x + " * "+ y +" = " + mul);
                     break;
