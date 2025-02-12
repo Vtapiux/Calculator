@@ -68,5 +68,6 @@ public class Calculator{
                     break;
             }
         }  
+        scan.close();
     }
 }
